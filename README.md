@@ -18,7 +18,7 @@ Ce projet comprend plusieurs visualisations interactives et analyses descriptive
 ## Contenu du Répertoire
 
 - **/data:** Contient les jeux de données utilisés pour l'analyse.
-- **/notebooks:** Notebooks Jupyter contenant le code de l'analyse et des visualisations.
+- **/notebook:** Notebooks Jupyter contenant le code de l'analyse et des visualisations.
 - **/images:** Images des visualisations générées.
 
 
